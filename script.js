@@ -7,5 +7,5 @@ while (numero <= 10) {
     console.log(numero, "es impar");
   }
 
-  
+  numero++
 }
